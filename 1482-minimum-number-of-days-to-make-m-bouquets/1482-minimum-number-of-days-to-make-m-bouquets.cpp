@@ -1,18 +1,16 @@
 class Solution {
 public:
-    int minDays(vector<int>& bloomDay, int m, int k) {
-        int n = bloomDay.size();
-
-        int maxi = INT_MIN;
-        for(int i = 0;i < n; i++)maxi = max(maxi, bloomDay[i]);
-        int low = 1, high = maxi;
+    int minDays(vector<int>& nums, int m, int k) {
+        int n = nums.size();
+        int low = 1;
+        int high = *max_element(nums.begin(), nums.end());
         int ans = -1;
 
         while(low <= high){
             int mid = low + (high-low)/2;
             int flower = 0, bouquet = 0;
             for(int i = 0;i < n; i++){
-                if(bloomDay[i] <= mid){
+                if(nums[i] <= mid){
                     flower++;
                     if(flower == k){
                         bouquet++;
