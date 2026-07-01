@@ -13,11 +13,11 @@ public:
 
         while (low <= high) {
             int mid = low + (high - low) / 2;
-            long long hours = 0;
+            long long sum = 0;
             for (int i = 0; i < n; i++) {
-                hours += (a[i] + mid - 1) / mid;
+                sum += (a[i] + mid - 1) / mid;
             }
-            if (hours <= h) {
+            if (sum <= h) {
                 ans = mid;
                 high = mid - 1;
             } else {
