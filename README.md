@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Chinmay42010/Leetcode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Chinmay42010/Leetcode/tree/master/0053-maximum-subarray) |
 | [0875-koko-eating-bananas](https://github.com/Chinmay42010/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Chinmay42010/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -13,6 +14,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Chinmay42010/Leetcode/tree/master/0015-3sum) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Chinmay42010/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Divide and Conquer
 |  |
@@ -43,4 +45,8 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Chinmay42010/Leetcode/tree/master/1732-find-the-highest-altitude) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Chinmay42010/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
