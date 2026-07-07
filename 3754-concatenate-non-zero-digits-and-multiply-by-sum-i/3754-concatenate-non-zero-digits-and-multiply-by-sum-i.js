@@ -7,7 +7,7 @@ var sumAndMultiply = function(n) {
     while(n != 0) {
         x = (Math.floor(n % 10)) * len + x;
         if(Math.floor(n % 10 != 0)) len = len * 10;
-        sum += Math.floor(n % 10);
+        sum += (n % 10);
         n = Math.floor(n / 10);
     }
     return sum * x;
