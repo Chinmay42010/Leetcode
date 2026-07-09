@@ -3,6 +3,15 @@
  * @return {boolean}
  */
 var isGoodArray = function(nums) {
+    function gcd(a, b) {
+        while (b !== 0) {
+            let temp = b;
+            b = a % b;
+            a = temp;
+        }
+        return a;
+    }
+    
     let n = nums.length;
     let gcdivi = nums[0];
 
@@ -16,9 +25,3 @@ var isGoodArray = function(nums) {
     return false;
 };
 
-function gcd(a, b) {
-    while (b !== 0) {
-        [a, b] = [b, a % b];
-    }
-    return Math.abs(a);
-}
