@@ -5,7 +5,8 @@ public:
         int n =nums.size();
         vector<int>v(n+1,0);
 
-        int missing=0,duplicate =0;
+        int missing=0;
+        int duplicate =0;
         
         for(int i =0;i<n;i++){
             v[nums[i]]++;
