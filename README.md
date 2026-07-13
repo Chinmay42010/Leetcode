@@ -98,4 +98,8 @@
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Chinmay42010/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Chinmay42010/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
