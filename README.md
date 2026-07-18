@@ -21,6 +21,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Chinmay42010/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/Chinmay42010/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Chinmay42010/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Chinmay42010/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Chinmay42010/Leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Chinmay42010/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Sorting
@@ -76,12 +77,14 @@
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/Chinmay42010/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Chinmay42010/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chinmay42010/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Chinmay42010/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Number Theory
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/Chinmay42010/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Chinmay42010/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chinmay42010/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
