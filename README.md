@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chinmay42010/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/Chinmay42010/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Chinmay42010/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Chinmay42010/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Chinmay42010/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -73,9 +74,11 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Chinmay42010/Leetcode/tree/master/0015-3sum) |
+| [0633-sum-of-square-numbers](https://github.com/Chinmay42010/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Chinmay42010/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Chinmay42010/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chinmay42010/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chinmay42010/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
