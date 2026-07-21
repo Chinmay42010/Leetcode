@@ -22,6 +22,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Chinmay42010/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Chinmay42010/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chinmay42010/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2126-destroying-asteroids](https://github.com/Chinmay42010/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2239-find-closest-number-to-zero](https://github.com/Chinmay42010/Leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Chinmay42010/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Sorting
@@ -31,6 +32,7 @@
 | [0645-set-mismatch](https://github.com/Chinmay42010/Leetcode/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Chinmay42010/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chinmay42010/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2126-destroying-asteroids](https://github.com/Chinmay42010/Leetcode/tree/master/2126-destroying-asteroids) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Chinmay42010/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Divide and Conquer
 |  |
@@ -110,4 +112,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Chinmay42010/Leetcode/tree/master/1291-sequential-digits) |
+## Greedy
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/Chinmay42010/Leetcode/tree/master/2126-destroying-asteroids) |
 <!---LeetCode Topics End-->
