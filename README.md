@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Chinmay42010/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chinmay42010/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Chinmay42010/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Chinmay42010/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chinmay42010/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chinmay42010/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Chinmay42010/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chinmay42010/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Chinmay42010/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -124,6 +126,7 @@
 |  |
 | ------- |
 | [2126-destroying-asteroids](https://github.com/Chinmay42010/Leetcode/tree/master/2126-destroying-asteroids) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chinmay42010/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
