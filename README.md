@@ -27,6 +27,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chinmay42010/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2126-destroying-asteroids](https://github.com/Chinmay42010/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2239-find-closest-number-to-zero](https://github.com/Chinmay42010/Leetcode/tree/master/2239-find-closest-number-to-zero) |
+| [3731-find-missing-elements](https://github.com/Chinmay42010/Leetcode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Chinmay42010/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Sorting
 |  |
@@ -39,6 +40,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chinmay42010/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2126-destroying-asteroids](https://github.com/Chinmay42010/Leetcode/tree/master/2126-destroying-asteroids) |
 | [3536-maximum-product-of-two-digits](https://github.com/Chinmay42010/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Chinmay42010/Leetcode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Chinmay42010/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Divide and Conquer
 |  |
@@ -68,6 +70,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Chinmay42010/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Chinmay42010/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chinmay42010/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3731-find-missing-elements](https://github.com/Chinmay42010/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
