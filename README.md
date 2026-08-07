@@ -27,6 +27,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chinmay42010/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2126-destroying-asteroids](https://github.com/Chinmay42010/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2239-find-closest-number-to-zero](https://github.com/Chinmay42010/Leetcode/tree/master/2239-find-closest-number-to-zero) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Chinmay42010/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3731-find-missing-elements](https://github.com/Chinmay42010/Leetcode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Chinmay42010/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Sorting
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Chinmay42010/Leetcode/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Chinmay42010/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Chinmay42010/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Greedy
 |  |
