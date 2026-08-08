@@ -75,6 +75,7 @@
 ## String
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Chinmay42010/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1189-maximum-number-of-balloons](https://github.com/Chinmay42010/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chinmay42010/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting
@@ -112,6 +113,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Chinmay42010/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Chinmay42010/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Chinmay42010/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
