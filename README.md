@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chinmay42010/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0400-nth-digit](https://github.com/Chinmay42010/Leetcode/tree/master/0400-nth-digit) |
 | [0633-sum-of-square-numbers](https://github.com/Chinmay42010/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Chinmay42010/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Chinmay42010/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -100,6 +101,7 @@
 ## Math
 |  |
 | ------- |
+| [0400-nth-digit](https://github.com/Chinmay42010/Leetcode/tree/master/0400-nth-digit) |
 | [0486-predict-the-winner](https://github.com/Chinmay42010/Leetcode/tree/master/0486-predict-the-winner) |
 | [0633-sum-of-square-numbers](https://github.com/Chinmay42010/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Chinmay42010/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
