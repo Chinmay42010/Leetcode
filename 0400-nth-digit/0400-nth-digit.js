@@ -1,3 +1,7 @@
+/**
+ * @param {number} n
+ * @return {number}
+ */
 var findNthDigit = function(n) {
     let i = 1, count = 9, start = 1;
 
