@@ -11,6 +11,7 @@
 | [0486-predict-the-winner](https://github.com/Chinmay42010/Leetcode/tree/master/0486-predict-the-winner) |
 | [0645-set-mismatch](https://github.com/Chinmay42010/Leetcode/tree/master/0645-set-mismatch) |
 | [0875-koko-eating-bananas](https://github.com/Chinmay42010/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0962-maximum-width-ramp](https://github.com/Chinmay42010/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Chinmay42010/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Chinmay42010/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Chinmay42010/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Chinmay42010/Leetcode/tree/master/0015-3sum) |
 | [0633-sum-of-square-numbers](https://github.com/Chinmay42010/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0962-maximum-width-ramp](https://github.com/Chinmay42010/Leetcode/tree/master/0962-maximum-width-ramp) |
 ## Math
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 ## Stack
 |  |
 | ------- |
+| [0962-maximum-width-ramp](https://github.com/Chinmay42010/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Chinmay42010/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Enumeration
 |  |
@@ -187,4 +190,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Chinmay42010/Leetcode/tree/master/0836-rectangle-overlap) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/Chinmay42010/Leetcode/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
