@@ -61,6 +61,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Chinmay42010/Leetcode/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/Chinmay42010/Leetcode/tree/master/0486-predict-the-winner) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chinmay42010/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chinmay42010/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Chinmay42010/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Chinmay42010/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/Chinmay42010/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -117,6 +119,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Chinmay42010/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/Chinmay42010/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Chinmay42010/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chinmay42010/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chinmay42010/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chinmay42010/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Chinmay42010/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -194,4 +197,8 @@
 |  |
 | ------- |
 | [0962-maximum-width-ramp](https://github.com/Chinmay42010/Leetcode/tree/master/0962-maximum-width-ramp) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chinmay42010/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
