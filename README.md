@@ -21,6 +21,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Chinmay42010/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chinmay42010/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Chinmay42010/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chinmay42010/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Chinmay42010/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Chinmay42010/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Chinmay42010/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -61,6 +62,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Chinmay42010/Leetcode/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/Chinmay42010/Leetcode/tree/master/0486-predict-the-winner) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chinmay42010/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chinmay42010/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Binary Search
 |  |
@@ -72,6 +74,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Chinmay42010/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Chinmay42010/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Chinmay42010/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chinmay42010/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Chinmay42010/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Chinmay42010/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
@@ -82,6 +85,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Chinmay42010/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Chinmay42010/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chinmay42010/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chinmay42010/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Chinmay42010/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chinmay42010/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Chinmay42010/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -188,6 +192,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chinmay42010/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chinmay42010/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Geometry
 |  |
