@@ -26,6 +26,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Chinmay42010/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Chinmay42010/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Chinmay42010/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Chinmay42010/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/Chinmay42010/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chinmay42010/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2126-destroying-asteroids](https://github.com/Chinmay42010/Leetcode/tree/master/2126-destroying-asteroids) |
@@ -147,6 +148,7 @@
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Chinmay42010/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Chinmay42010/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Chinmay42010/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/Chinmay42010/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Chinmay42010/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Chinmay42010/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -186,6 +188,7 @@
 |  |
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Chinmay42010/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Chinmay42010/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 ## Recursion
 |  |
 | ------- |
