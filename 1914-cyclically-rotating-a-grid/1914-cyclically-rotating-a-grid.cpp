@@ -1,34 +1,55 @@
 class Solution {
 public:
     vector<vector<int>> rotateGrid(vector<vector<int>>& grid, int k) {
-        int T = 0, L = 0;
-        int B = grid.size() - 1, R = grid[0].size() - 1;
+        int n = grid.size();
+        int m = grid[0].size();
 
-        while (T < B && L < R) {
-            int len = B - T, wid = R - L;
-            int perimeter = 2 * len + 2 * wid;
-            int r = k % perimeter;
+        for(int layer = 0; layer < min(m,n)/2; layer++) {
+            int top = layer;
+            int left = layer;
+            int bottom = n - 1 - layer;
+            int right = m - 1 - layer;
 
-            while (r--) {
-                int tmp = grid[T][L];
+            vector<int> v;
 
-                for (int i = L; i < R; i++)
-                    grid[T][i] = grid[T][i + 1];
-
-                for (int i = T; i < B; i++)
-                    grid[i][R] = grid[i + 1][R];
-
-                for (int i = R; i > L; i--)
-                    grid[B][i] = grid[B][i - 1];
-
-                for (int i = B; i > T; i--)
-                    grid[i][L] = grid[i - 1][L];
-
-                grid[T + 1][L] = tmp;
+            for(int j = left; j <= right; j++) {
+                v.push_back(grid[top][j]);
             }
 
-            T++; L++;
-            B--; R--;
+            for(int i = top + 1; i <= bottom; i++) {
+                v.push_back(grid[i][right]);
+            }
+
+            for(int j = right - 1; j >= left; j--) {
+                v.push_back(grid[bottom][j]);
+            }
+
+            for(int i = bottom - 1; i > top; i--) {
+                v.push_back(grid[i][left]);
+            }
+
+            // Rotate the 1D array
+            int x = 0;
+            int shift = k % v.size();
+
+            rotate(v.begin(), v.begin() + shift, v.end());
+
+            // Put it back
+            for(int j = left; j <= right; j++) {
+                grid[top][j] = v[x++];
+            }
+
+            for(int i = top + 1; i <= bottom; i++) {
+                grid[i][right] = v[x++];
+            }
+
+            for(int j = right - 1; j >= left; j--) {
+                grid[bottom][j] = v[x++];
+            }
+
+            for(int i = bottom - 1; i > top; i--) {
+                grid[i][left] = v[x++];
+            }
         }
 
         return grid;
