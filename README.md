@@ -66,6 +66,7 @@
 | [0486-predict-the-winner](https://github.com/Chinmay42010/Leetcode/tree/master/0486-predict-the-winner) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chinmay42010/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chinmay42010/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chinmay42010/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [0657-robot-return-to-origin](https://github.com/Chinmay42010/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1189-maximum-number-of-balloons](https://github.com/Chinmay42010/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chinmay42010/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chinmay42010/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chinmay42010/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Chinmay42010/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
@@ -120,6 +122,7 @@
 | [0015-3sum](https://github.com/Chinmay42010/Leetcode/tree/master/0015-3sum) |
 | [0633-sum-of-square-numbers](https://github.com/Chinmay42010/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0962-maximum-width-ramp](https://github.com/Chinmay42010/Leetcode/tree/master/0962-maximum-width-ramp) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chinmay42010/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
 |  |
 | ------- |
@@ -178,6 +181,7 @@
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chinmay42010/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2126-destroying-asteroids](https://github.com/Chinmay42010/Leetcode/tree/master/2126-destroying-asteroids) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chinmay42010/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chinmay42010/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Heap (Priority Queue)
 |  |
