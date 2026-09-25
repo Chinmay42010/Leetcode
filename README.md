@@ -42,6 +42,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Chinmay42010/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Chinmay42010/Leetcode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Chinmay42010/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chinmay42010/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/Chinmay42010/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
@@ -57,6 +58,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/Chinmay42010/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Chinmay42010/Leetcode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Chinmay42010/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chinmay42010/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Chinmay42010/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0962-maximum-width-ramp](https://github.com/Chinmay42010/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chinmay42010/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chinmay42010/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -145,6 +148,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chinmay42010/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Chinmay42010/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Chinmay42010/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chinmay42010/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3871-count-commas-in-range-ii](https://github.com/Chinmay42010/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Number Theory
 |  |
@@ -152,6 +156,7 @@
 | [1250-check-if-it-is-a-good-array](https://github.com/Chinmay42010/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chinmay42010/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chinmay42010/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chinmay42010/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -161,6 +166,7 @@
 | [1929-concatenation-of-array](https://github.com/Chinmay42010/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Chinmay42010/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Chinmay42010/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chinmay42010/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
