@@ -105,6 +105,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Chinmay42010/Leetcode/tree/master/0125-valid-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/Chinmay42010/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1189-maximum-number-of-balloons](https://github.com/Chinmay42010/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chinmay42010/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Chinmay42010/Leetcode/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/Chinmay42010/Leetcode/tree/master/0125-valid-palindrome) |
 | [0633-sum-of-square-numbers](https://github.com/Chinmay42010/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0962-maximum-width-ramp](https://github.com/Chinmay42010/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chinmay42010/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
