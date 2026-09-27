@@ -108,6 +108,7 @@
 | [0125-valid-palindrome](https://github.com/Chinmay42010/Leetcode/tree/master/0125-valid-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/Chinmay42010/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1189-maximum-number-of-balloons](https://github.com/Chinmay42010/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chinmay42010/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chinmay42010/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chinmay42010/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chinmay42010/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0962-maximum-width-ramp](https://github.com/Chinmay42010/Leetcode/tree/master/0962-maximum-width-ramp) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chinmay42010/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Chinmay42010/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Enumeration
 |  |
@@ -239,4 +241,8 @@
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Chinmay42010/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chinmay42010/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
