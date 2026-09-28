@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chinmay42010/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Chinmay42010/Leetcode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/Chinmay42010/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Chinmay42010/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chinmay42010/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Chinmay42010/Leetcode/tree/master/0486-predict-the-winner) |
 | [0645-set-mismatch](https://github.com/Chinmay42010/Leetcode/tree/master/0645-set-mismatch) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Chinmay42010/Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Chinmay42010/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Chinmay42010/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Chinmay42010/Leetcode/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Chinmay42010/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Chinmay42010/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chinmay42010/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/Chinmay42010/Leetcode/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/Chinmay42010/Leetcode/tree/master/0400-nth-digit) |
 | [0633-sum-of-square-numbers](https://github.com/Chinmay42010/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Chinmay42010/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -91,6 +94,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Chinmay42010/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Chinmay42010/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chinmay42010/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Chinmay42010/Leetcode/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/Chinmay42010/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -142,6 +146,7 @@
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Chinmay42010/Leetcode/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/Chinmay42010/Leetcode/tree/master/0400-nth-digit) |
 | [0486-predict-the-winner](https://github.com/Chinmay42010/Leetcode/tree/master/0486-predict-the-winner) |
 | [0633-sum-of-square-numbers](https://github.com/Chinmay42010/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -178,6 +183,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Chinmay42010/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Chinmay42010/Leetcode/tree/master/0645-set-mismatch) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Chinmay42010/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Counting Sort
