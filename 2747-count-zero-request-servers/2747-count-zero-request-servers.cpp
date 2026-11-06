@@ -1,35 +1,52 @@
 class Solution {
 public:
     vector<int> countServers(int n, vector<vector<int>>& logs, int x, vector<int>& queries) {
+
         sort(logs.begin(), logs.end(), [](const vector<int>& a, const vector<int>& b) {
             return a[1] < b[1];
         });
-        int m = queries.size();
-        vector<int> ans(m);
-        vector<pair<int, int>> q;
 
-        for (int i = 0; i < m; i++) q.emplace_back(queries[i], i);
+        int m = queries.size();
+
+        vector<pair<int, int>> q;
+        for (int i = 0; i < m; i++) {
+            q.push_back({queries[i], i});
+        }
+
         sort(q.begin(), q.end());
-        unordered_map<int, int> freq;
-        
-        int active = 0;
+
+        vector<int> freq(n + 1, 0);
+        vector<int> ans(m);
+
         int left = 0, right = 0;
-        int L = logs.size();
-        
-        for (auto& [time, idx] : q) {
-            while (right < L && logs[right][1] <= time) {
-                int s = logs[right][0];
-                if (++freq[s] == 1) active++;
+        int active = 0;
+
+        for (auto [t, idx] : q) {
+
+            while (right < logs.size() && logs[right][1] <= t) {
+                int server = logs[right][0];
+
+                if (freq[server] == 0)
+                    active++;
+
+                freq[server]++;
                 right++;
             }
-        
-            while (left < right && logs[left][1] < time - x) {
-                int s = logs[left][0];
-                if (--freq[s] == 0) active--;
+
+            while (left < right && logs[left][1] < t - x) {
+                int server = logs[left][0];
+
+                freq[server]--;
+
+                if (freq[server] == 0)
+                    active--;
+
                 left++;
             }
+
             ans[idx] = n - active;
         }
+
         return ans;
     }
 };
