@@ -1,7 +1,6 @@
 class Solution {
 private:
-    void bfs(int i, int j, vector<vector<int>>& vis,
-             vector<vector<char>>& grid) {
+    void bfs(int i, int j, vector<vector<int>>& vis, vector<vector<char>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
 
